@@ -1,1 +1,2 @@
 # Offline-and-online-deep-learning-for-image-recognition
+Image recognition using Deep Learning has been evolved for decades though advances in the field through different settings is still a challenge. In this paper, we present our findings in searching for better image classifiers in offline and online environments. We resort to Convolutional Neural Network and its variations of fully connected Multi-layer Perceptron. Though still preliminary, these results are encouraging and may provide a better understanding about the field and directions toward future works.
